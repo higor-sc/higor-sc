@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Electrical Engineering
 - 🌱 I’m currently learning Automation and Control
-- 📫 How to reach me: higor.s.c@hotmail.com
+- 📫 How to reach me: higor.s.c@usp.com or higor.s.c@hotmail.com 
 
 <div align="center">
   <a href="https://github.com/higor-sc">
