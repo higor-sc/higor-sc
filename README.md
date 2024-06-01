@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Electrical Engineering
 - 🌱 I’m currently learning Automation and Control
-- 📫 How to reach me: higor.s.c@usp.br or higor.s.c@hotmail.com 
+- 📫 How to reach me: higor.s.c@alumni.usp.br or higor.s.c@hotmail.com 
 
 <div align="center">
   <a href="https://github.com/higor-sc">
@@ -22,7 +22,7 @@
  ##
 
  <div>
-  <a href = "mailto:higor.s.c@usp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:higor.s.c@alumni.usp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "mailto:higor.s.c@hotmail.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/higor-souza-cunha1999/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/higor.s.c/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
